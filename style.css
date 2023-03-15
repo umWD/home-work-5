@@ -1,0 +1,39 @@
+.product{
+    background-color: lightgoldenrodyellow;
+    width:25%;
+    height:50%;
+    padding:10px;
+    margin:10px;
+}
+h4{
+    background: #d42f2f;
+    width: 70%;
+    color: #fff;
+    font-size:20px;
+    padding: 3px 10px;
+    line-height:14px;
+    margin-bottom: 2px;
+    border-radius: 0 20px 20px 0;
+}
+img{
+    width:100%;
+}
+#p2{
+   color:red;
+}
+del{
+    color:black;
+}
+button{
+    background:blue;
+    text-align:center;
+    color: bisque;
+    outline: none;
+    border: 2px solid #3749bb;
+    padding: 0 20px;
+    margin: 0;
+    height: 42px;
+    line-height: 38px;
+
+    
+}
